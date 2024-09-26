@@ -1,4 +1,4 @@
-#Git과 Github Study를 위한 프로젝트
+# Git과 Github Study를 위한 프로젝트
 
 ## 1. 프로젝트 소개
 
